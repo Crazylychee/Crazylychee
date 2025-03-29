@@ -23,7 +23,7 @@ Nice to meet you!
   
   GitHub: [Crazylychee]
   
-  Blog:[MyBlog](crazylychee.github.io)](https://crazylychee.github.io/)
+  Blog:[MyBlog](https://crazylychee.github.io/)
 
   Email: U2FsdGVkX1//s4gvrSfgnUGyWEoOD0uP5xRmLvqrk9nq0fjd0i7J8oIB5/skp9hI (Subject "Coffee++" for priority reply!)
 > The encryption method is AES, with no password
