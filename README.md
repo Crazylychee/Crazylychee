@@ -30,7 +30,7 @@ Nice to meet you!
 
   😄 Pronouns: He/They/you
 
-
+  ✨ Motto: "**Do One Thing and Do It Well**" (Unix philosophy believer!)
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazylychee&count_private=true&random=123)  
