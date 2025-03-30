@@ -33,4 +33,6 @@ Nice to meet you!
 
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazylychee&count_private=true)  -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazylychee&count_private=true)  
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazylychee&layout=compact&langs_count=6)](https://github.com/Crazylychee)
