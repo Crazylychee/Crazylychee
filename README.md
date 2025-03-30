@@ -5,7 +5,7 @@ Nice to meet you!
  **Personal Profile**
 
   🚀 Tech Enthusiast | Backend Specialist | Web Explorer
-  🔭 Currently working on: Building high-performance backend services with Java/Go/Python (Psst: currently obsessed with Kafka performance tuning!)
+  🔭 Currently working on: Building high-performance backend services with Java/Go
   
   🌱 Currently learning: Full-stack wizardry! Vue3 + Spring Cloud Alibaba + Cloud Native
   
