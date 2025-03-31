@@ -33,6 +33,6 @@ Nice to meet you!
   ✨ Motto: "**Do One Thing and Do It Well**" (Unix philosophy believer!)
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazylychee&count_private=true&random=123)  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazylychee&count_private=true)  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazylychee&layout=compact&langs_count=6)](https://github.com/Crazylychee)
