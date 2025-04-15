@@ -12,7 +12,7 @@ Nice to meet you!
   
   💬 Ask me about:
   
-  Message queue showdowns (Kafka vs Pulsar battle royale)
+  Message queue showdowns (Kafka vs RocketMQ battle royale)
   
   Developer wellness tips (personally tested slacking strategies included)
 
