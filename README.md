@@ -7,7 +7,6 @@ Nice to meet you!
   🔭 About me：
   
   Contributor of Apache/RocketMQ
-  Contributor of Apache/RocketMQ-Dashboard
   
   
   ☘️ My Contributions
