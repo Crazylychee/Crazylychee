@@ -2,19 +2,29 @@
 
 Nice to meet you!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazylychee&label=Profile%20views&color=0e75b6&style=flat" alt="crazylychee" /> </p>
- **Personal Profile**
+**Personal Profile**
 
-  🚀 Tech Enthusiast | Backend Specialist | Web Explorer
-  🔭 Currently working on: Building high-performance backend services with Java/Go
+  🔭 About me：
+  
+  Contributor of Apache/RocketMQ
+  Contributor of Apache/RocketMQ-Dashboard
   
   
-  🤔 Looking for help with: How to elegantly architect a million-connection WebSocket system? Mentors welcome!
+  ☘️ My Contributions
   
-  💬 Ask me about:
+  RocketMQ-Dashboard:
   
-  Message queue showdowns (Kafka vs RocketMQ battle royale)
+  [Adapt ACL 2.0 for dashboard](https://github.com/apache/rocketmq-dashboard/pull/313)
   
-  Developer wellness tips (personally tested slacking strategies included)
+  [Speeds up topic and consumer queries](https://github.com/apache/rocketmq-dashboard/pull/286)
+                      
+  [optimize the response speed of the query api](https://github.com/apache/rocketmq-dashboard/pull/273)
+                      
+  [RIP-78](https://docs.google.com/document/d/1VWtonLh2uwQ1hU3rhYwUAhw2KNi803pZMW4KJkQFoYY/edit?tab=t.0#heading=h.nwczedg8v2na)
+
+  RocketMQ:
+  
+  [Add escape for win returning broker configuration](https://github.com/apache/rocketmq/pull/9440)
 
   📫 How to reach me:
   
