@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 Nice to meet you!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazylychee&label=Profile%20views&color=0e75b6&style=flat" alt="crazylychee" /> </p>
-**Personal Profile**
 
   🔭 About me：
   
